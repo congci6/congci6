@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-My ID is Cnily03, AKA TampooCat.
+My ID is congci6, Welcome to my homepage,世界源于无限可能
 
 [![Github](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCnily03&labelColor=181717&color=30363D&style=flat-square&logo=github&longCache=true)](https://github.com/Cnily03)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/5638)
@@ -32,10 +32,10 @@ My ID is Cnily03, AKA TampooCat.
   <img src="https://github-readme-stats.vercel.app/api?username=Cnily03&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" style="height: 155px; max-width: 100%;" align="right" />
 </a>
 
-🌐 **Website:** [cnily.me](https://cnily.me) / [tampoo.io](https://tampoo.io)
+🌐 **Email:** 2823714488@qq.com
 
-🎲 **Playing:** MineCraft, Star Rail
+🎲 **From:** HUTB,HuNan
 
-📖 **Directions:** AI Security / Natural Language Processing
+📖 **Directions:** Cyberspace Security
 
-🩷 **Interests:** Compiler Design / Web Backend
+🩷 **Interests:** Natural Language Processing / CTF
