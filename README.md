@@ -25,7 +25,7 @@ My ID is congci6, Welcome to my homepage,世界源于无限可能
 ![OS](https://img.shields.io/badge/OS-Ubuntu%2024%2e04-e95420?style=flat-square&logo=windows&logoColor=fff)
 ![OS](https://img.shields.io/badge/IDE-VSCode-0078d4?style=flat-square&logo=windows&logoColor=fff)
 
-
+---
 
 <a href="##">
   <img src="https://github-readme-stats.vercel.app/api?username=congci6&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" style="height: 155px; max-width: 100%;" align="right" />
