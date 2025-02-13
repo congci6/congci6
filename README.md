@@ -8,7 +8,7 @@ My ID is congci6, Welcome to my homepage,世界源于无限可能
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:pengweikang2823@gmail.com)
 
 ---
-<img src="https://ghchart.rshah.org/000000/congci6" width="1000" alt="GitHub Contributions Chart">
+<img src="https://ghchart.rshah.org/409ba5/congci6" width="1000" alt="GitHub Contributions Chart">
 
 <a href="##">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congci6&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" style="height: 160px; max-width: 100%;" align="right" />
