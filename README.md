@@ -33,7 +33,7 @@ My ID is congci6, Welcome to my homepage,世界源于无限可能
 
 🌐 **Email:** 2823714488@qq.com
 
-🎲 **From:** HUTB,HuNan
+🎲 **From:** HUTB,China
 
 📖 **Directions:** Cyberspace Security
 
