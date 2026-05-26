@@ -37,4 +37,4 @@ My ID is congci6, Welcome to my homepage,世界源于无限可能
 
 📖 **Directions:** Cyberspace Security
 
-🩷 **Interests:** NPEE
+🩷 **Interests:** None
