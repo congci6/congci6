@@ -9,11 +9,9 @@ My ID is congci6, Welcome to my homepage, 世界源于无限可能
 
 ---
 
-<img src="https://ghchart.rshah.org/409ba5/congci6" width="730" align="left" />
-<a href="##">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congci6&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" height="160" align="right" />
-</a>
-<br clear="all" />
+<img src="https://ghchart.rshah.org/409ba5/congci6" width="100%" alt="GitHub Contributions Chart">
+
+---
 
 ## ✨ Using
 
@@ -28,9 +26,14 @@ My ID is congci6, Welcome to my homepage, 世界源于无限可能
 
 ---
 
-<a href="##">
-  <img src="https://github-readme-stats.vercel.app/api?username=congci6&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" style="height: 155px; max-width: 100%;" align="right" />
-</a>
+<div align="center">
+  <a href="##">
+    <img src="https://github-readme-stats.vercel.app/api?username=congci6&show_icons=true&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" height="155" />
+  </a>
+  <a href="##">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congci6&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" height="155" />
+  </a>
+</div>
 
 🌐 **Email:** 2823714488@qq.com
 
