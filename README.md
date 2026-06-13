@@ -3,8 +3,8 @@
 My ID is congci6, Welcome to my homepage, 世界源于无限可能
 
 [![Github](https://img.shields.io/badge/dynamic/json?label=GitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DCnily03&labelColor=181717&color=30363D&style=flat-square&logo=github&longCache=true)](https://github.com/congci6)
-[![QQ Mail](https://img.shields.io/badge/QQ%20Mail-2823714488-0052d9?logo=tencentqq&logoColor=white&style=flat-square)](mailto:2823714488@qq.com)
-[![X](https://img.shields.io/badge/X-@congci66-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/congci66)
+[![QQ](https://img.shields.io/badge/QQ-2823714488-0052d9?logo=tencentqq&logoColor=white&style=flat-square)](https://wpa.qq.com/msgrd?v=3&uin=2823714488&site=qq&menu=yes)
+[![X](https://img.shields.io/badge/-@congci66-000000?logo=x&logoColor=white&style=flat-square)](https://x.com/congci66)
 [![Gmail](https://img.shields.io/badge/Gmail-pengweikang2823@gmail.com-D14836?logo=gmail&logoColor=white&style=flat-square)](mailto:pengweikang2823@gmail.com)
 
 ---
