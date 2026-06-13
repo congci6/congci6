@@ -43,5 +43,13 @@ My ID is congci6, Welcome to my homepage, 世界源于无限可能
 
 ---
 
-| 🌐 **Email:** 2823714488@qq.com | 🎲 **From:** HUTB, China |
-| 📖 **Directions:** Cyberspace Security | 🩷 **Interests:** None |
+<table>
+  <tr>
+    <td>🌐 <b>Email:</b> 2823714488@qq.com</td>
+    <td>🎲 <b>From:</b> HUTB, China</td>
+  </tr>
+  <tr>
+    <td>📖 <b>Directions:</b> Cyberspace Security</td>
+    <td>🩷 <b>Interests:</b> None</td>
+  </tr>
+</table>
