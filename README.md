@@ -26,14 +26,20 @@ My ID is congci6, Welcome to my homepage, 世界源于无限可能
 
 ---
 
-<div align="center">
-  <a href="##">
-    <img src="https://github-readme-stats.vercel.app/api?username=congci6&show_icons=true&card_width=400&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" height="155" />
-  </a>
-  <a href="##">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congci6&layout=compact&card_width=400&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" height="155" />
-  </a>
-</div>
+<table>
+  <tr>
+    <td width="50%" align="left">
+      <a href="##">
+        <img src="https://github-readme-stats.vercel.app/api?username=congci6&show_icons=true&card_width=400&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="GitHub Stats" height="155" />
+      </a>
+    </td>
+    <td width="50%" align="right">
+      <a href="##">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congci6&layout=compact&card_width=400&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" height="155" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 🌐 **Email:** 2823714488@qq.com
 
