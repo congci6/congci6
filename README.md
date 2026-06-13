@@ -26,7 +26,7 @@ My ID is congci6, Welcome to my homepage, 世界源于无限可能
 
 ---
 
-<table>
+<table cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="left">
       <a href="##">
@@ -41,10 +41,7 @@ My ID is congci6, Welcome to my homepage, 世界源于无限可能
   </tr>
 </table>
 
-🌐 **Email:** 2823714488@qq.com
+---
 
-🎲 **From:** HUTB, China
-
-📖 **Directions:** Cyberspace Security
-
-🩷 **Interests:** None
+| 🌐 **Email:** 2823714488@qq.com | 🎲 **From:** HUTB, China |
+| 📖 **Directions:** Cyberspace Security | 🩷 **Interests:** None |
