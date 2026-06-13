@@ -10,10 +10,6 @@ My ID is congci6, Welcome to my homepage, 世界源于无限可能
 ---
 <img src="https://ghchart.rshah.org/409ba5/congci6" width="1000" alt="GitHub Contributions Chart">
 
-<a href="##">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congci6&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" style="height: 160px; max-width: 100%;" align="right" />
-</a>
-
 ## ✨ Using
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=TypeScript&logoColor=fff)
@@ -24,6 +20,10 @@ My ID is congci6, Welcome to my homepage, 世界源于无限可能
 ![OS](https://img.shields.io/badge/OS-Windows%2011-0067b8?style=flat-square&logo=windows&logoColor=fff)
 ![OS](https://img.shields.io/badge/OS-Ubuntu%2024%2e04-e95420?style=flat-square&logo=ubuntu&logoColor=fff)
 ![IDE](https://img.shields.io/badge/IDE-VSCode-0078d4?style=flat-square&logo=visualstudiocode&logoColor=fff)
+
+<a href="##">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=congci6&layout=compact&bg_color=161B22&text_color=C9D1D9&title_color=528BFF" title="Top Lang" style="height: 160px; max-width: 100%;" align="right" />
+</a>
 
 ---
 
